@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "LoadDimensionTableDWHNorthwindOrders", "LoadDimensionTableDWHNorthwindOrders\LoadDimensionTableDWHNorthwindOrders.dtproj", "{29F0ACAD-C356-474B-8399-568185A09C3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29F0ACAD-C356-474B-8399-568185A09C3A}.Development|Default.ActiveCfg = Development
+		{29F0ACAD-C356-474B-8399-568185A09C3A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E779E9D4-39BB-450F-8175-883B2CEF8C3B}
+	EndGlobalSection
+EndGlobal
